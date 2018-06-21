@@ -23,14 +23,6 @@
     "ParameterValue": ""
   },
   {
-    "ParameterKey": "VpcId",
-    "ParameterValue": ""
-  },
-  {
-    "ParameterKey": "BastionCIDR",
-    "ParameterValue": "127.0.0.1"
-  },
-  {
     "ParameterKey": "GitHubEncryptedToken",
     "ParameterValue": ""
   },
